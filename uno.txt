@@ -1,2 +1,1 @@
-Texto agregando en la rama prueba1 
-Contenido del archivo uno.txt
+Conflicto de versiones solucionado 
